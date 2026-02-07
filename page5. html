@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HP Board Class 10 Board Question Paper Maths (A) 2024</title>
+
+  <style>
+    body{
+      margin:0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #84fab0, #8fd3f4);
+    }
+    header{
+      background:#ffffffdd;
+      padding:20px;
+      text-align:center;
+      box-shadow:0 4px 10px rgba(0,0,0,0.2);
+    }
+    header h1{
+      color:#1b5e20;
+      margin:0;
+    }
+    .content{
+      padding:40px;
+      text-align:center;
+    }
+    .box{
+      background:white;
+      padding:25px;
+      border-radius:20px;
+      box-shadow:0 6px 15px rgba(0,0,0,0.2);
+      max-width:500px;
+      margin:auto;
+    }
+    .box h2{
+      margin-top:0;
+      color:#0d47a1;
+    }
+    a.download{
+      display:inline-block;
+      margin-top:20px;
+      background:#1565c0;
+      color:white;
+      padding:12px 25px;
+      border-radius:25px;
+      text-decoration:none;
+      font-weight:bold;
+    }
+    p.watermark{
+      color:#777;
+      font-size:12px;
+      margin-top:15px;
+    }
+    footer{
+      text-align:center;
+      padding:15px;
+      background:#ffffffdd;
+      margin-top:40px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1> HP Board Class 10</h1>
+    <p>Question Paper Maths (A) – 2024</p>
+  </header>
+
+  <div class="content">
+    <div class="box">
+      <h2>Maths (A) 2024</h2>
+      <p>Yahan HP Board Class 10 Maths (A) 2024 ka question paper / PDF milega.</p>
+      <a class="download" href="#">⬇ Download PDF</a>
+      <p class="watermark">© StudyNotes Vault – Unauthorized copying is prohibited.</p>
+    </div>
+  </div>
+
+  <footer>
+    <a href="page2.html">⬅ Back to Class 10 List</a>
+    <p>© 2026 StudyNotes Vault | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
