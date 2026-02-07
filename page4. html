@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hp board Class 12 board question paper</title>
+
+  <style>
+    body{
+      margin:0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #cfd9df, #e2ebf0);
+    }
+    header{
+      background:#ffffffdd;
+      padding:20px;
+      text-align:center;
+      box-shadow:0 4px 10px rgba(0,0,0,0.2);
+    }
+    header h1{
+      color:#1a237e;
+      margin:0;
+    }
+    .content{
+      padding:40px;
+      text-align:center;
+      font-size:18px;
+    }
+    a{
+      display:inline-block;
+      margin-top:20px;
+      text-decoration:none;
+      background:#283593;
+      color:white;
+      padding:10px 20px;
+      border-radius:25px;
+      font-size:16px;
+    }
+    footer{
+      text-align:center;
+      padding:15px;
+      background:#ffffffdd;
+      margin-top:40px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>HP Board Class 12 Board Question Paper</h1>
+    <p>StudyNotes Vault</p>
+  </header>
+
+  <div class="content">
+    <p>
+      Is page par HP Board Class 12 ke board question papers
+      jald hi upload kiye jayenge.
+    </p>
+
+    <a href="index.html">⬅ Back to Home</a>
+  </div>
+
+  <footer>
+    <p>© 2026 StudyNotes Vault | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
